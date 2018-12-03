@@ -4,14 +4,14 @@
 
 依赖：
 
-allprojects {
-		repositories {
-			...
-			maven { url 'https://jitpack.io' }
-		}
-	}
+    allprojects {
+            repositories {
+                ...
+                maven { url 'https://jitpack.io' }
+            }
+        }
 
 
-dependencies {
-	        implementation 'com.github.wyba:android_serialport:V1.0.0'
-	}
+    dependencies {
+                implementation 'com.github.wyba:android_serialport:V1.0.0'
+        }
