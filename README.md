@@ -13,5 +13,7 @@
 
 
     dependencies {
-                implementation 'com.github.wyba:android_serialport:V1.0.0'
+                implementation 'com.github.wyba:android_serialport:V1.0.1'
         }
+
+版本更新，防止Cmake发生错误
