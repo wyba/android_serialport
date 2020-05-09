@@ -1,6 +1,6 @@
 # android_serialport
 
-安卓串口库
+安卓串口库-最新版
 
 依赖：
 
